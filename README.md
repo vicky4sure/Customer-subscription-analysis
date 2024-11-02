@@ -76,7 +76,7 @@ In the initial phase of the data cleaning and preparation,we perform the followi
     ### Data visualization
 
 
-![vicky](https://github.com/user-attachments/assets/848fb12c-c66e-4745-839c-b8e15e47d294)
+
 
 ![SQL PAYMENT TABLE](https://github.com/user-attachments/assets/82155a7e-f891-4f64-bc4c-a6ebf9ee0bce)
 
