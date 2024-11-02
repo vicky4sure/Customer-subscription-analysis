@@ -18,16 +18,16 @@ Exploratory data analysis
 Data visualization
 
 ### Project overview
-The aim of this project is to analyze customer . Through this analysis, insight will be provided that will support business decisions.
-data from a subscription service to identify customers segments and emerging trends. Through this analysis, actionable insights will be derived to support strategic business decision
+The aim of this project is to analyze customer data from a subscription service to identify customers segments and emerging trends. The goal is to understand customer behaviour, track the subscription types and identify the key trends in cancellations and renewal. Through this analysis, actionable insights will be derived to support strategic business decisions
+
 ### Data sources
-The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes sales records from a retail store for a learning purpose.
+The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes customers records from a subscription sevice provider for a learning purpose.
 ---
 ### Tools used
 1. Microsoft Excel [Download Here](https://microsoft.com)
 -  for data cleaning and preparation.
-- utilized excel formulars to calculate keys metrics such as Average (AVG) and total sales, total revenue by region.
--   Created data visualizations using pivot table and charts to identify trends and insights.
+- utilized excel formulars to calculate Average subscription duration and identify the most popular subscription types.
+-   Created data visualizations using pivot table and charts to identify subscription pattern based on their revenue, the trending subscription types, the duration of cancellation renewal duration.
   
  2. SQL -Structured Query Language of data
    - for quering the dataset to retrieve the total sales for each product category
