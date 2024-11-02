@@ -30,12 +30,13 @@ The dataset used for this analysis was provided by incubator Hub, an educational
 -   Created data visualizations using pivot table and charts to identify subscription pattern based on their revenue, the trending subscription types, the duration of cancellation renewal duration.
   
  2. SQL -Structured Query Language of data
-   - for quering the dataset to retrieve the total sales for each product category
-   - to calculate the highest selling product by total sales value
-   - To calculate the top 5 customers by total purchase amount
+   - for quering the dataset to retrieve the total number of customers from each region using SQL Command.
+   - to find the most popular subscription type by the number of customers using SQL Command.
+   - To calculate the total revenue by subscription type using SQL Command.
+     
   3. POWERBI -Power Business Intelligence
-     - to create a dashboard that will visualizes the insight to all the work done on excel and sql
-     - to visualizes the sales overview, top performing product and sum of revenue by regional breakdown
+     - Creation of  dashboard that will visualizes key customer segments
+     - Uses of slicers for interactive analysis on the dashboard
 - Github for portfolio building
 ---
 ### Data cleaning and preparation
