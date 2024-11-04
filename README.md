@@ -18,10 +18,10 @@ Exploratory data analysis
 Data visualization
 
 ### Project overview
-The aim of this project is to analyze customer data from a subscription service to identify customers segments and emerging trends. The goal is to understand customer behaviour, track the subscription types and identify the key trends in cancellations and renewal. Through this analysis, actionable insights will be derived to support strategic business decisions
+The aim of this project is to analyze customer data from a subscription service to identify customers segments and emerging trends. The goal is to understand customer behaviour, track the subscription types and identify the key trends in cancellations and renewal. Through this analysis, actionable insights will be derived to support strategic business decisions. It shows the regional revenue generated on three different subscription type i. e. Basic, Premium and Standard subscription. The East has the highest revenue been generated with a total of 16,958,778 as against others. The Basic type subscription has the highest figure of 33,776,735. The Basic subscription also has the highest Customer Count of 16,921 as against the Premium and Standard of 8,446 and 8,420 Customer Count respectively.
 
 ### Data sources
-The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes customers records from a subscription sevice provider for a learning purpose.
+The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes customers records from a subscription service provider for a learning purpose.
 ---
 ### Tools used
 1. Microsoft Excel [Download Here](https://microsoft.com)
