@@ -78,13 +78,6 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 
 
 
-![SQL PAYMENT TABLE](https://github.com/user-attachments/assets/82155a7e-f891-4f64-bc4c-a6ebf9ee0bce)
-
-![SQL JOIN](https://github.com/user-attachments/assets/64f4322c-01bc-4bc1-a86b-048a6e92e4bb)
-
-![EXCEL PIVOT TABLE](https://github.com/user-attachments/assets/7da8c13d-8b21-42c3-aee7-f86c8765658d)
-
-![EXCEL PIVOT CHART](https://github.com/user-attachments/assets/7f504561-4514-4ece-bb74-8056fb843c69)
 
 
 
