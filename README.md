@@ -82,10 +82,18 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 
 ![CUSTOMERPIVOT1](https://github.com/user-attachments/assets/b6b4a407-4375-4227-8ed8-6ed41a6ac369)
 
+![CUSTOMERPIVOT2](https://github.com/user-attachments/assets/d4a29638-b97c-4660-b36d-74d9fd9106b4)
+
+![CUSTOMERSUBDURATION](https://github.com/user-attachments/assets/0bcb8359-4c50-4505-a1cb-441963a857b4)
 
 
+![CUSTOMERTRANSDATA](https://github.com/user-attachments/assets/6c9f92ac-6f7e-42a9-bd16-6d5f634abf1b)
 
+![CUSTOMERVISUAL](https://github.com/user-attachments/assets/5a5014e8-5daf-44cb-a619-63fd2b756d8b)
 
+![KEYCUSTOMER SLICERS](https://github.com/user-attachments/assets/11eb5367-79ba-44f7-b2c5-81915e85c878)
+
+![SQLCUSTOMER1](https://github.com/user-attachments/assets/78fe376d-896e-46c7-b191-e42ba7fc9541)
 
 
 
