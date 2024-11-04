@@ -74,7 +74,13 @@ In the initial phase of the data cleaning and preparation,we perform the followi
      WHERE CONDITION =TRUE
      ```
     ### Data visualization
+![CUSTOMERDASHBOARD1](https://github.com/user-attachments/assets/4a76888f-c901-4e38-9360-55289ec8ce63)
 
+![CUSTOMERDASHBOARD2](https://github.com/user-attachments/assets/54484f2a-1501-449b-9d92-0016e252d66d)
+
+![CUSTOMERDATA](https://github.com/user-attachments/assets/bea9c1ec-fd53-4d4a-959e-ab36ed5cc680)
+
+![CUSTOMERPIVOT1](https://github.com/user-attachments/assets/b6b4a407-4375-4227-8ed8-6ed41a6ac369)
 
 
 
