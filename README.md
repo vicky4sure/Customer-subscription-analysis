@@ -96,6 +96,22 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 ![SQLCUSTOMER1](https://github.com/user-attachments/assets/78fe376d-896e-46c7-b191-e42ba7fc9541)
 
 
+![SQLCUSTOMER2](https://github.com/user-attachments/assets/045fde9f-46ab-4700-b959-1234f9997c40)
+
+![SQLCUSTOMER3](https://github.com/user-attachments/assets/7388aa6d-eaf3-4f00-8804-b87fbce1caec)
+
+![SQLCUSTOMER4](https://github.com/user-attachments/assets/e94a52d8-2bd3-4fec-b8cd-5cf5f8651e12)
+
+
+![SQLCUSTOMER5](https://github.com/user-attachments/assets/b04a59f9-5009-497e-bd25-295ef0966cf9)
+
+![SQLCUSTOMER6](https://github.com/user-attachments/assets/0274eb94-702d-4352-956a-6e42942bdcc7)
+
+![SQLCUSTOMER7](https://github.com/user-attachments/assets/44c99f5a-3560-4ddd-821f-ad5e5968a06b)
+
+![SQLCUSTOMER8](https://github.com/user-attachments/assets/e091501e-4439-4b12-8448-2b6d498d771f)
+
+
 
    
    |heading1|heading2|heading3|
